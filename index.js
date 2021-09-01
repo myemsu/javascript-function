@@ -1,4 +1,4 @@
-'use restrict';
+'use strict';
 
 /* 
     1.return은 함수를 끝낸다
